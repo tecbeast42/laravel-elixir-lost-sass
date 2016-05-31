@@ -1,0 +1,30 @@
+{
+  "name": "laravel-elixir-lost-sass",
+  "version": "1.0.0",
+  "description": "Laravel Elixir extension to compile sass and lost in one go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecbeast42/laravel-elixir-lost-sass.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "sass",
+    "lost",
+    "css"
+  ],
+  "author": "Tobias Kriebisch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tecbeast42/laravel-elixir-lost-sass/issues"
+  },
+  "homepage": "https://github.com/tecbeast42/laravel-elixir-lost-sass#readme",
+  "dependencies": {
+    "gulp-postcss": "^6.1.1",
+    "lost": "^6.8.0"
+  }
+}
