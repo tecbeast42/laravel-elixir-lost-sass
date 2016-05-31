@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-lost-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel Elixir extension to compile sass and lost in one go",
   "main": "index.js",
   "scripts": {
