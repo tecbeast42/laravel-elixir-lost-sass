@@ -7,7 +7,7 @@ Laravel Elixir extension which compiles sass and lost in one go. Uses all of the
 ```js
 var elixir = require('laravel-elixir');
 
-require('laravel-elixir-vueify');
+require('laravel-elixir-lost-sass');
 
 elixir(function(mix) {
     mix.sassAndLost(src,output,baseDir);
