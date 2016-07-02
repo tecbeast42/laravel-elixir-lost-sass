@@ -9,8 +9,6 @@ const config = Elixir.config;
  * Lost Module Config
  */
 config.css.lost = {
-	tempFile: config.publicPath+'/'+config.css.outputFolder+'/lost.css',
-
 	pluginOptions: [
 		lost(),
 	],
